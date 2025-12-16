@@ -1,0 +1,22 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none"
+     xmlns="http://www.w3.org/2000/svg">
+  <!-- HEX 육각형 배경 -->
+  <polygon
+    points="32,9 55,22 55,42 32,55 9,42 9,22"
+    fill="#4277e2"
+    stroke="#274c77"
+    stroke-width="2"
+  />
+  <!-- 기어(툴킷 상징) -->
+  <circle cx="32" cy="34" r="9" fill="#fff" stroke="#274c77" stroke-width="1.6"/>
+  <g stroke="#274c77" stroke-width="1.2">
+    <line x1="32" y1="21" x2="32" y2="12" />
+    <line x1="42.4" y1="26" x2="49" y2="19.8" />
+    <line x1="51" y1="34" x2="60" y2="34" />
+    <line x1="42.4" y1="42" x2="49" y2="48.2" />
+    <line x1="32" y1="47" x2="32" y2="56" />
+    <line x1="21.6" y1="42" x2="15" y2="48.2" />
+    <line x1="13" y1="34" x2="4" y2="34" />
+    <line x1="21.6" y1="26" x2="15" y2="19.8" />
+  </g>
+</svg>
